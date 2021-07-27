@@ -13,6 +13,7 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - r-caret
   - pip
   - pip:
     - plotly
